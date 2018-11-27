@@ -46,6 +46,8 @@ Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL 
 ## Hack Program
 - [DDOS]
 	- [material](https://www.ecrimelabs.com/blog/2018/11/25/ddos-research-data-made-public) - DDOS RESEARCH DATA OPEN-SOURCED ON SCANS.IO
+- [Exploit]
+	- [code](https://github.com/niklasb/sploits) - [sploits](https://github.com/niklasb/sploits)
 
 ## Windows Kernel
 - [Bootkit]
