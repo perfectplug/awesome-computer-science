@@ -25,7 +25,7 @@ Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL 
 
 - [OD]
 
-- [Lua]
+
 
 - [Triton](https://triton.quarkslab.com/)
 	- [code](https://github.com/JonathanSalwan/Triton) - [Triton](https://github.com/JonathanSalwan/Triton) - Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a Taint Engine, AST representations of the x86 and the x86-64 instructions set semantics, SMT simplification passes, an SMT Solver Interface and, the last but not least, Python bindings.
@@ -50,7 +50,8 @@ Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL 
 
 
 ## Decompiler
-
+- [Lua]
+	- [code](https://github.com/perfectplug/ljd) - [ljd](https://github.com/perfectplug/ljd) - The original name was ljwthgnd as in LuaJIT 'What The Hell is Going On' Decompiler named under the LuaJIT C sources variable naming convention.
 ## Emulator
 
 
