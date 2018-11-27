@@ -36,7 +36,7 @@ Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL 
 - [VMProtect]
 	- [Analysis]
 		- [code](https://github.com/wanttobeno/vmp3.2crack) - [vmp3.2crack](https://github.com/wanttobeno/vmp3.2crack) - [[调试逆向] [虚拟机保护] [原创]VMP3.2授权分析](https://bbs.pediy.com/thread-247442.htm)
-		~~- [code](https://github.com/wanttobeno/VmpHandle) - [VmpHandle](https://github.com/wanttobeno/VmpHandle)~~
+		~~- [code](https://github.com/wanttobeno/VmpHandle) - [VmpHandle](https://github.com/wanttobeno/VmpHandle) ~~
 		- [code](https://github.com/0xbadc0de1/VmP_DBG) - [VmP_DBG](https://github.com/0xbadc0de1/VmP_DBG) - This is a VmProtect integrated debugger, that will essentially allow you to disasm and debug vmp partially virtualized functions at the vmp bytecode level. It was made using TitanEngine for the debug engine and Qt for the gui. Do not expect much of it and feel free to report any bugs.
 		- [code](https://github.com/uvbs/VMPDBG2) - [VMPDBG2](https://github.com/uvbs/VMPDBG2) - VMPDBG is a (GUI included) debugger and devirtualizer for x86 obfuscted code that was obfuscated by VMProtect. This project was designed only for scientific purposes and / or malware analysis.
 		- [code](https://github.com/s3team/VMHunt) - [VMHunt](https://github.com/s3team/VMHunt) - VMHunt: Extraction and Simplification of Virtualized Binary Code.
