@@ -33,8 +33,10 @@ Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL 
 	- [pdf](https://www.reddit.com/r/ReverseEngineering/comments/8uusze/pdf_symbolic_deobfuscation_from_virtualized_code/e1ialz2/) - Symbolic Deobfuscation: From Virtualized Code Back to the Original
 
 		
-		
-
+- [VMProtect]
+	- [code](https://github.com/wanttobeno/vmp3.2crack) - [vmp3.2crack](https://github.com/wanttobeno/vmp3.2crack)
+	- [code](https://github.com/GkvJwa/vmp) - [vmp demo](https://github.com/GkvJwa/vmp)
+	- [code](https://github.com/wanttobeno/VmpHandle) - [VmpHandle](https://github.com/wanttobeno/VmpHandle)
 ## Hack Program
 
 
