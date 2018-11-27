@@ -7,4 +7,5 @@ Collect computer related materials and codes
 
 ## Reverse Engine
 
-- [Tutorial](https://github.com/DennisYurichev/RE-for-beginners#readme) - "Reverse Engineering for Beginners" free book http://beginners.re
+- [Tutorial]
+	-[book](https://github.com/DennisYurichev/RE-for-beginners#readme) - "Reverse Engineering for Beginners" free book http://beginners.re
