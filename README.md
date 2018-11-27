@@ -37,6 +37,7 @@ Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL 
 	- [code](https://github.com/wanttobeno/vmp3.2crack) - [vmp3.2crack](https://github.com/wanttobeno/vmp3.2crack)
 	- [code](https://github.com/GkvJwa/vmp) - [vmp demo](https://github.com/GkvJwa/vmp)
 	- [code](https://github.com/wanttobeno/VmpHandle) - [VmpHandle](https://github.com/wanttobeno/VmpHandle)
+	- [code](https://github.com/0xbadc0de1/VmP_DBG) - [VmP_DBG](https://github.com/0xbadc0de1/VmP_DBG)
 ## Hack Program
 
 
