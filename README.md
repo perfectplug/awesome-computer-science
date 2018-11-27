@@ -36,7 +36,9 @@ Collect computer related materials and codes
 
 
 ## Windows Kernel
+- [Bootkit]
 
+- [Rootkit]
 
 ## Operation System
 
@@ -50,6 +52,9 @@ Collect computer related materials and codes
 
 
 ## Virtualization
+- [Intel]
+
+- [AMD]
 
 ## Game Engine
 - [Client]
