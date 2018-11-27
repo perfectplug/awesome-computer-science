@@ -20,7 +20,7 @@ Collect computer related materials and codes
 	- [code](https://github.com/hasherezade/pe-sieve) - [PE-sieve](https://github.com/hasherezade/pe-sieve) - PE-sieve is a light-weight tool that helps to detect malware running on the system, as well as to collect the potentially malicious material for further analysis. Recognizes and dumps variety of implants within the scanned process: replaced/injected PEs, shellcodes, hooks, and other in-memory patches.
 Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL Injection, etc.
 - [IDA]
-
+	- [code](https://github.com/wanttobeno/IDAStealth-v1.3.3) - [IDAStealth-v1.3.3](https://github.com/wanttobeno/IDAStealth-v1.3.3) - IDA反-反调试插件 IDAStealth v1.3.3, created 06/28/2011, Jan Newger
 - [x64Dbg]
 
 - [OD]
