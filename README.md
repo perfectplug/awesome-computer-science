@@ -34,7 +34,7 @@ Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL 
 
 		
 - [VMProtect]
-	- [code](https://github.com/wanttobeno/vmp3.2crack) - [vmp3.2crack](https://github.com/wanttobeno/vmp3.2crack) - [调试逆向] [虚拟机保护] [原创]VMP3.2授权分析(https://bbs.pediy.com/thread-247442.htm)
+	- [code](https://github.com/wanttobeno/vmp3.2crack) - [vmp3.2crack](https://github.com/wanttobeno/vmp3.2crack) - [[调试逆向] [虚拟机保护] [原创]VMP3.2授权分析](https://bbs.pediy.com/thread-247442.htm)
 	- [code](https://github.com/GkvJwa/vmp) - [vmp demo](https://github.com/GkvJwa/vmp)
 	- [code](https://github.com/wanttobeno/VmpHandle) - [VmpHandle](https://github.com/wanttobeno/VmpHandle)
 	- [code](https://github.com/0xbadc0de1/VmP_DBG) - [VmP_DBG](https://github.com/0xbadc0de1/VmP_DBG) - This is a VmProtect integrated debugger, that will essentially allow you to disasm and debug vmp partially virtualized functions at the vmp bytecode level. It was made using TitanEngine for the debug engine and Qt for the gui. Do not expect much of it and feel free to report any bugs.
