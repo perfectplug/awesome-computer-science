@@ -58,7 +58,7 @@ Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL 
 
 
 ## Decompiler
-- [Lua]
+- [LuaJIT](http://luajit.org/)
 	- [code](https://github.com/perfectplug/ljd) - [ljd](https://github.com/perfectplug/ljd) - The original name was ljwthgnd as in LuaJIT 'What The Hell is Going On' Decompiler named under the LuaJIT C sources variable naming convention.
 ## Emulator
 
