@@ -44,6 +44,7 @@ Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL 
 		- [code](https://github.com/s3team/VMHunt) - [VMHunt](https://github.com/s3team/VMHunt) - VMHunt: Extraction and Simplification of Virtualized Binary Code.
 		- [code](https://github.com/lmy375/pinvmp) - [pinvmp](https://github.com/lmy375/pinvmp) - PinVMP：虚拟化代码辅助分析工具
 		- [code](https://github.com/anatolikalysch/VMAttack) - [VMAttack](https://github.com/anatolikalysch/VMAttack) - VMAttack PlugIn for IDA Pro.IDA Pro Plugin for static and dynamic virtualization-based packed analysis and deobfuscation.VMAttack was awarded the second place at the annual IDA Pro Plug-in Contest in 2016!
+		- [code](https://github.com/OoWoodOne/VMP_ODPlugin) - [VMP_ODPlugin](https://github.com/OoWoodOne/VMP_ODPlugin) - [[原创]VMP分析handler与脱壳插件&源码](https://bbs.pediy.com/thread-203683.htm)
 		
 	- [Implement]
 		- [code](https://github.com/TinyNiko/VMProtect) - [VMProtect](https://github.com/TinyNiko/VMProtect) - I know this project is impossible ,but i;m possible
