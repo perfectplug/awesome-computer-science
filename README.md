@@ -25,6 +25,9 @@ Collect computer related materials and codes
 	- [angr](http://angr.io/)
 		- [doc](https://docs.angr.io/) - angr Documentation
 		- [code](https://github.com/angr/angr) - [angr](https://github.com/angr/angr) - angr is a platform-agnostic binary analysis framework. It is brought to you by the Computer Security Lab at UC Santa Barbara, SEFCOM at Arizona State University, their associated CTF team, Shellphish, the open source community, and @rhelmot.
+	- [Manticore](https://github.com/trailofbits/manticore)
+		- [code](https://github.com/trailofbits/manticore) - [manticore](https://github.com/trailofbits/manticore) - Manticore is a symbolic execution tool for analysis of binaries and smart contracts.
+		- [page](https://blog.trailofbits.com/2017/04/27/manticore-symbolic-execution-for-humans/) - Manticore: Symbolic execution for humans
 	
 - [Tutorial]
 	- [Book](https://github.com/DennisYurichev/RE-for-beginners#readme) - "Reverse Engineering for Beginners" free book http://beginners.re
