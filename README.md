@@ -22,6 +22,9 @@ Collect computer related materials and codes
 		- [code](https://github.com/JonathanSalwan/Triton) - [Triton](https://github.com/JonathanSalwan/Triton) - Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a Taint Engine, AST representations of the x86 and the x86-64 instructions set semantics, SMT simplification passes, an SMT Solver Interface and, the last but not least, Python bindings.
 		- [code](https://github.com/JonathanSalwan/Tigress_protection) - [Tigress_protection](https://github.com/JonathanSalwan/Tigress_protection) - Playing with the Tigress binary protection. Break some of its protections and solve some of its challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM.
 		- [pdf](https://www.reddit.com/r/ReverseEngineering/comments/8uusze/pdf_symbolic_deobfuscation_from_virtualized_code/e1ialz2/) - Symbolic Deobfuscation: From Virtualized Code Back to the Original
+	- [angr](http://angr.io/)
+		- [doc](https://docs.angr.io/)
+		- [code](https://github.com/angr/angr) - [angr](https://github.com/angr/angr) - angr is a platform-agnostic binary analysis framework. It is brought to you by the Computer Security Lab at UC Santa Barbara, SEFCOM at Arizona State University, their associated CTF team, Shellphish, the open source community, and @rhelmot.
 	
 - [Tutorial]
 	- [Book](https://github.com/DennisYurichev/RE-for-beginners#readme) - "Reverse Engineering for Beginners" free book http://beginners.re
