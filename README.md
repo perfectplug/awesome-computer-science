@@ -74,6 +74,9 @@ Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL 
 	- [code](https://github.com/rootm0s/Injectors) - [Injectors](https://github.com/rootm0s/Injectors) - DLL/Shellcode injection techniques
 
 ## Windows Kernel
+- [Tools]
+	- [code](https://github.com/zodiacon/KernelExplorer) - [KernelExplorer](https://github.com/zodiacon/KernelExplorer)
+	- [code](https://github.com/zodiacon/DriverMon) - [DriverMon](https://github.com/zodiacon/DriverMon)
 - [Bootkit]
 
 - [Rootkit]
