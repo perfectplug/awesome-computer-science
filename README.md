@@ -34,12 +34,15 @@ Collect computer related materials and codes
 - [PE]
 	- [code](https://github.com/hasherezade/pe-sieve) - [PE-sieve](https://github.com/hasherezade/pe-sieve) - PE-sieve is a light-weight tool that helps to detect malware running on the system, as well as to collect the potentially malicious material for further analysis. Recognizes and dumps variety of implants within the scanned process: replaced/injected PEs, shellcodes, hooks, and other in-memory patches.
 Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL Injection, etc.
+	- [code](https://github.com/zodiacon/PEExplorer) - [PEExplorer](https://github.com/zodiacon/PEExplorer) - Portable Executable Explorer
 - [Debug]
 	- [code](https://github.com/bootleg/ret-sync) - [ret-sync](https://github.com/bootleg/ret-sync) - ret-sync stands for Reverse-Engineering Tools synchronization. It's a set of plugins that help to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg/OllyDbg2/x64dbg) with IDA disassembler. The underlying idea is simple: take the best from both worlds (static and dynamic analysis).
 - [IDA]
 	- [code](https://github.com/wanttobeno/IDAStealth-v1.3.3) - [IDAStealth-v1.3.3](https://github.com/wanttobeno/IDAStealth-v1.3.3) - IDA反-反调试插件 IDAStealth v1.3.3, created 06/28/2011, Jan Newger
 - [x64Dbg]
-
+	- [code](https://github.com/0ffffffffh/Api-Break-for-x64dbg) - [Api-Break-for-x64dbg](https://github.com/0ffffffffh/Api-Break-for-x64dbg) - x64dbg plugin to set breakpoints automatically to Win32/64 APIs
+	- [code](https://github.com/atom0s/CeAutoAsm-x64dbg) - [CeAutoAsm-x64dbg](https://github.com/atom0s/CeAutoAsm-x64dbg) - An x64dbg plugin that allows users to execute Cheat Engine auto assembler scripts within x64dbg.
+	
 - [OD]
 
 
@@ -66,6 +69,9 @@ Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL 
 	- [material](https://www.ecrimelabs.com/blog/2018/11/25/ddos-research-data-made-public) - DDOS RESEARCH DATA OPEN-SOURCED ON SCANS.IO
 - [Exploit]
 	- [code](https://github.com/niklasb/sploits) - [sploits](https://github.com/niklasb/sploits)
+	- [code](https://github.com/enddo/awesome-windows-exploitation) - [awesome-windows-exploitation](https://github.com/enddo/awesome-windows-exploitation) - A curated list of awesome Windows Exploitation resources, and shiny things. Inspired by awesom
+- [Inject]
+	- [code](https://github.com/rootm0s/Injectors) - [Injectors](https://github.com/rootm0s/Injectors) - DLL/Shellcode injection techniques
 
 ## Windows Kernel
 - [Bootkit]
@@ -87,7 +93,7 @@ Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL 
 
 ## Virtualization
 - [Intel]
-
+	- [code](https://github.com/tandasat/GuardMon) - [GuardMon](https://github.com/tandasat/GuardMon) - Hypervisor based tool for monitoring system register accesses.
 - [AMD]
 
 ## Game Engine
