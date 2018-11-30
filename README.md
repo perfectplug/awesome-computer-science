@@ -31,17 +31,31 @@ Collect computer related materials and codes
 	
 - [Tutorial]
 	- [Book](https://github.com/DennisYurichev/RE-for-beginners#readme) - "Reverse Engineering for Beginners" free book http://beginners.re
+	- [List](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
+	
 - [PE]
 	- [code](https://github.com/hasherezade/pe-sieve) - [PE-sieve](https://github.com/hasherezade/pe-sieve) - PE-sieve is a light-weight tool that helps to detect malware running on the system, as well as to collect the potentially malicious material for further analysis. Recognizes and dumps variety of implants within the scanned process: replaced/injected PEs, shellcodes, hooks, and other in-memory patches.
 Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL Injection, etc.
 	- [code](https://github.com/zodiacon/PEExplorer) - [PEExplorer](https://github.com/zodiacon/PEExplorer) - Portable Executable Explorer
+	
+- [AntiDebug]
+	- [code](https://github.com/CoderAldrich/AntiDebug) - [AntiDebug](https://github.com/CoderAldrich/AntiDebug) - 此目录收集整理反调试方法
+	- [code](https://github.com/alphaSeclab/anti-debug) - [anti-debug](https://github.com/alphaSeclab/anti-debug) - 
+	- [code]() - []() - 
 - [Debug]
 	- [code](https://github.com/bootleg/ret-sync) - [ret-sync](https://github.com/bootleg/ret-sync) - ret-sync stands for Reverse-Engineering Tools synchronization. It's a set of plugins that help to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg/OllyDbg2/x64dbg) with IDA disassembler. The underlying idea is simple: take the best from both worlds (static and dynamic analysis).
 - [IDA]
 	- [code](https://github.com/wanttobeno/IDAStealth-v1.3.3) - [IDAStealth-v1.3.3](https://github.com/wanttobeno/IDAStealth-v1.3.3) - IDA反-反调试插件 IDAStealth v1.3.3, created 06/28/2011, Jan Newger
+	- [code](https://github.com/illera88/Ponce) - [Ponce](https://github.com/illera88/Ponce) - IDA 2016 plugin contest winner! Symbolic Execution just one-click away!Ponce (pronounced [ 'poN θe ] pon-they ) is an IDA Pro plugin that provides users the ability to perform taint analysis and symbolic execution over binaries in an easy and intuitive fashion. With Ponce you are one click away from getting all the power from cutting edge symbolic execution. Entirely written in C/C++.
+	- [code](https://github.com/alexhude/uEmu) - [uEmu](https://github.com/alexhude/uEmu) - Tiny cute emulator plugin for IDA based on unicorn.
+	- [code](https://github.com/snare/ida-efiutils) - [ida-efiutils](https://github.com/snare/ida-efiutils) - Some scripts for IDA Pro to assist with reverse engineering EFI binaries
+	- [code](https://github.com/DGA-MI-SSI/YaCo) - [YaCo](https://github.com/DGA-MI-SSI/YaCo) - YaCo is an Hex-Rays IDA plugin. When enabled, multiple users can work simultaneously on the same binary. Any modification done by any user is synchronized through git version control.
+	- [code](https://github.com/IDArlingTeam/IDArling) - [IDArling](https://github.com/IDArlingTeam/IDArling) - Collaborative Reverse Engineering plugin for IDA Pro & Hex-Rays https://idarling.re
+
 - [x64Dbg]
 	- [code](https://github.com/0ffffffffh/Api-Break-for-x64dbg) - [Api-Break-for-x64dbg](https://github.com/0ffffffffh/Api-Break-for-x64dbg) - x64dbg plugin to set breakpoints automatically to Win32/64 APIs
 	- [code](https://github.com/atom0s/CeAutoAsm-x64dbg) - [CeAutoAsm-x64dbg](https://github.com/atom0s/CeAutoAsm-x64dbg) - An x64dbg plugin that allows users to execute Cheat Engine auto assembler scripts within x64dbg.
+	- [code](https://github.com/ThunderCls/xAnalyzer) - [xAnalyzer](https://github.com/ThunderCls/xAnalyzer) - xAnalyzer plugin for x64dbg
 	
 - [OD]
 
@@ -72,6 +86,9 @@ Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL 
 	- [code](https://github.com/enddo/awesome-windows-exploitation) - [awesome-windows-exploitation](https://github.com/enddo/awesome-windows-exploitation) - A curated list of awesome Windows Exploitation resources, and shiny things. Inspired by awesom
 - [Inject]
 	- [code](https://github.com/rootm0s/Injectors) - [Injectors](https://github.com/rootm0s/Injectors) - DLL/Shellcode injection techniques
+	- [code](https://github.com/strivexjun/DriverInjectDll) - [DriverInjectDll](https://github.com/strivexjun/DriverInjectDll) - Use Driver Global Memory Load DLL
+	- [code](https://github.com/fdiskyou/injectAllTheThings) - [injectAllTheThings](https://github.com/fdiskyou/injectAllTheThings) - Seven different DLL injection techniques in one single project.
+	- [code](https://github.com/dwendt/UniversalInject) - [UniversalInject](https://github.com/dwendt/UniversalInject) - Windows IME-based DLL injection. Able to inject a DLL without OpenProcess or a process handle being necessary..
 
 ## Windows Kernel
 - [Tools]
@@ -86,11 +103,16 @@ Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL 
 	- [code](https://github.com/ufrisk/MemProcFS) - [MemProcFS](https://github.com/ufrisk/MemProcFS) - The Memory Process File System:
 
 ## Compiler
-
+- [Book]
+	- [code](https://github.com/fool2fish/dragon-book-exercise-answers) - [dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers
 
 ## Decompiler
 - [LuaJIT](http://luajit.org/)
 	- [code](https://github.com/perfectplug/ljd) - [ljd](https://github.com/perfectplug/ljd) - The original name was ljwthgnd as in LuaJIT 'What The Hell is Going On' Decompiler named under the LuaJIT C sources variable naming convention.
+	- [code](https://github.com/EiNSTeiN-/decompiler) - [decompiler](https://github.com/EiNSTeiN-/decompiler) - A decompiler with multiple backend support, written in Python. Works with IDA and Capstone.
+	- [code](https://github.com/rexdex/recompiler) - [recompiler](https://github.com/rexdex/recompiler) - Xbox360 -> Windows executable converter
+	
+	
 ## Emulator
 
 
