@@ -125,6 +125,7 @@ Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL 
 - [Client]
 
 - [Server]
-
+	- [code](https://github.com/kerryjiang/SuperSocket) - [SuperSocket](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight, cross platform and extensible socket server application framework.
+	- [code](https://github.com/kerryjiang/SuperSocket.ClientEngine) - [SuperSocket.ClientEngine](https://github.com/kerryjiang/SuperSocket.ClientEngine) - A .NET library which can make your socket client development easier
 
 
