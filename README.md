@@ -101,7 +101,12 @@ Collect computer related materials and codes
 - [PS]
 	- [code](https://github.com/TheOfficialFloW/h-encore) - [h-encore](https://github.com/TheOfficialFloW/h-encore) - Fully chained kernel exploit for the PS Vita
 	
-
+- [Sandbox]
+	- [code](https://github.com/cuckoosandbox/cuckoo) - [cuckoo](https://github.com/cuckoosandbox/cuckoo) - Cuckoo Sandbox is an automated dynamic malware analysis system http://www.cuckoosandbox.org
+	- [code](https://github.com/spender-sandbox/cuckoo-modified) - [cuckoo-modified](https://github.com/spender-sandbox/cuckoo-modified) - Modified edition of cuckoo.
+	- [code](https://github.com/ctxis/CAPE) - [CAPE](https://github.com/ctxis/CAPE) - Malware Configuration And Payload Extraction https://cape.contextis.com/analysis.CAPE is a malware sandbox. It is derived from Cuckoo and is designed to automate the process of malware analysis with the goal of extracting payloads and configuration from malware. This allows CAPE to detect malware based on payload signatures, as well as automating many of the goals of malware reverse engineering and threat intelligence.
+	
+	
 ## Windows Kernel
 - [Tools]
 	- [code](https://github.com/zodiacon/KernelExplorer) - [KernelExplorer](https://github.com/zodiacon/KernelExplorer)
