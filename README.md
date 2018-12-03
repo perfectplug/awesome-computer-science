@@ -33,10 +33,13 @@ Collect computer related materials and codes
 	- [Book](https://github.com/DennisYurichev/RE-for-beginners#readme) - "Reverse Engineering for Beginners" free book http://beginners.re
 	- [List](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
 	
-- [PE]
-	- [code](https://github.com/hasherezade/pe-sieve) - [PE-sieve](https://github.com/hasherezade/pe-sieve) - PE-sieve is a light-weight tool that helps to detect malware running on the system, as well as to collect the potentially malicious material for further analysis. Recognizes and dumps variety of implants within the scanned process: replaced/injected PEs, shellcodes, hooks, and other in-memory patches.
-Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL Injection, etc.
-	- [code](https://github.com/zodiacon/PEExplorer) - [PEExplorer](https://github.com/zodiacon/PEExplorer) - Portable Executable Explorer
+- [File Format]
+	- [code](https://github.com/corkami/pocs) - [pocs](https://github.com/corkami/pocs) - Proof of Concepts (PE, PDF...)
+	
+	- [PE]
+		- [code](https://github.com/hasherezade/pe-sieve) - [PE-sieve](https://github.com/hasherezade/pe-sieve) - PE-sieve is a light-weight tool that helps to detect malware running on the system, as well as to collect the potentially malicious material for further analysis. Recognizes and dumps variety of implants within the scanned process: replaced/injected PEs, shellcodes, hooks, and other in-memory patches.
+	Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL Injection, etc.
+		- [code](https://github.com/zodiacon/PEExplorer) - [PEExplorer](https://github.com/zodiacon/PEExplorer) - Portable Executable Explorer
 	
 - [AntiDebug]
 	- [code](https://github.com/CoderAldrich/AntiDebug) - [AntiDebug](https://github.com/CoderAldrich/AntiDebug) - 此目录收集整理反调试方法
@@ -89,6 +92,10 @@ Detects inline hooks, Process Hollowing, Process Doppelgänging, Reflective DLL 
 	- [code](https://github.com/strivexjun/DriverInjectDll) - [DriverInjectDll](https://github.com/strivexjun/DriverInjectDll) - Use Driver Global Memory Load DLL
 	- [code](https://github.com/fdiskyou/injectAllTheThings) - [injectAllTheThings](https://github.com/fdiskyou/injectAllTheThings) - Seven different DLL injection techniques in one single project.
 	- [code](https://github.com/dwendt/UniversalInject) - [UniversalInject](https://github.com/dwendt/UniversalInject) - Windows IME-based DLL injection. Able to inject a DLL without OpenProcess or a process handle being necessary..
+
+- [PS]
+	- [code](https://github.com/TheOfficialFloW/h-encore) - [h-encore](https://github.com/TheOfficialFloW/h-encore) - Fully chained kernel exploit for the PS Vita
+	
 
 ## Windows Kernel
 - [Tools]
