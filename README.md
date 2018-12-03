@@ -29,7 +29,7 @@ Collect computer related materials and codes
 		- [code](https://github.com/trailofbits/manticore) - [manticore](https://github.com/trailofbits/manticore) - Manticore is a symbolic execution tool for analysis of binaries and smart contracts.
 		- [page](https://blog.trailofbits.com/2017/04/27/manticore-symbolic-execution-for-humans/) - Manticore: Symbolic execution for humans
 	- [binwalk]
-		- [code](https://github.com/ReFirmLabs/binwalk) - [](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool.Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
+		- [code](https://github.com/ReFirmLabs/binwalk) - [binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool.Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
 		
 	
 - [Tutorial]
