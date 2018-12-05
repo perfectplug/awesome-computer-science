@@ -32,6 +32,9 @@ Collect computer related materials and codes
 		- [code](https://github.com/ReFirmLabs/binwalk) - [binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool.Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
 		
 	
+- [Tools]
+	- [code](https://github.com/binsec/binsec) - [binsec](https://github.com/binsec/binsec) - BINSEC binary-level open-source platform
+	
 - [Tutorial]
 	- [Book](https://github.com/DennisYurichev/RE-for-beginners#readme) - "Reverse Engineering for Beginners" free book http://beginners.re
 	- [List](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
@@ -58,6 +61,8 @@ Collect computer related materials and codes
 	- [code](https://github.com/DGA-MI-SSI/YaCo) - [YaCo](https://github.com/DGA-MI-SSI/YaCo) - YaCo is an Hex-Rays IDA plugin. When enabled, multiple users can work simultaneously on the same binary. Any modification done by any user is synchronized through git version control.
 	- [code](https://github.com/IDArlingTeam/IDArling) - [IDArling](https://github.com/IDArlingTeam/IDArling) - Collaborative Reverse Engineering plugin for IDA Pro & Hex-Rays https://idarling.re
 	- [code](https://github.com/keystone-engine/keypatch) - [keypatch](https://github.com/keystone-engine/keypatch) - Multi-architecture assembler for IDA Pro. Powered by Keystone Engine. http://www.keystone-engine.org/keypatch
+	- [code](https://github.com/RobinDavid/idasec) - [idasec](https://github.com/RobinDavid/idasec) - IDA plugin for reverse-engineering and dynamic interactions with the Binsec platform
+	- [code](https://github.com/techbliss/Python_editor) - [Python_editor](https://github.com/techbliss/Python_editor) - Better CodeEditor for Ida Pro.
 
 - [x64Dbg]
 	- [code](https://github.com/0ffffffffh/Api-Break-for-x64dbg) - [Api-Break-for-x64dbg](https://github.com/0ffffffffh/Api-Break-for-x64dbg) - x64dbg plugin to set breakpoints automatically to Win32/64 APIs
