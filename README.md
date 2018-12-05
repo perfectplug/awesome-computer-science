@@ -38,7 +38,7 @@ Collect computer related materials and codes
 - [Tutorial]
 	- [Book](https://github.com/DennisYurichev/RE-for-beginners#readme) - "Reverse Engineering for Beginners" free book http://beginners.re
 	- [List](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
-	- [Doc](https://www.hex-rays.com/products/ida/support/idapython_docs/) - This document contains the API (Application Programming Interface) documentation for IDAPython. Documentation for the Python objects defined by the project is divided into separate pages for each package, module, and class. The API documentation also includes two pages containing information about the project as a whole: a trees page, and an index page.
+	- [Doc](https://www.hex-rays.com/products/ida/support/idapython_docs/) - [IDAPython](https://www.hex-rays.com/products/ida/support/idapython_docs/) - This document contains the API (Application Programming Interface) documentation for IDAPython. Documentation for the Python objects defined by the project is divided into separate pages for each package, module, and class. The API documentation also includes two pages containing information about the project as a whole: a trees page, and an index page.
 	
 - [File Format]
 	- [code](https://github.com/corkami/pocs) - [pocs](https://github.com/corkami/pocs) - Proof of Concepts (PE, PDF...)
