@@ -129,7 +129,7 @@ Collect computer related materials and codes
 - [File System]
 	- [code](https://github.com/ufrisk/MemProcFS) - [MemProcFS](https://github.com/ufrisk/MemProcFS) - The Memory Process File System:
 	
-- [Tutiral]
+- [Tutorial]
 	- [os_course_info](https://github.com/chyyuu/os_course_info) - 清华大学操作系统课程(2018)
 	- [code](https://github.com/chyyuu/ucore_os_lab) - [ucore_os_lab](https://github.com/chyyuu/ucore_os_lab) - os kernel labs for operating systems course in Tsinghua University.
 
