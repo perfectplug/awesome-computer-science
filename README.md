@@ -57,6 +57,7 @@ Collect computer related materials and codes
 	- [code](https://github.com/snare/ida-efiutils) - [ida-efiutils](https://github.com/snare/ida-efiutils) - Some scripts for IDA Pro to assist with reverse engineering EFI binaries
 	- [code](https://github.com/DGA-MI-SSI/YaCo) - [YaCo](https://github.com/DGA-MI-SSI/YaCo) - YaCo is an Hex-Rays IDA plugin. When enabled, multiple users can work simultaneously on the same binary. Any modification done by any user is synchronized through git version control.
 	- [code](https://github.com/IDArlingTeam/IDArling) - [IDArling](https://github.com/IDArlingTeam/IDArling) - Collaborative Reverse Engineering plugin for IDA Pro & Hex-Rays https://idarling.re
+	- [code](https://github.com/keystone-engine/keypatch) - [keypatch](https://github.com/keystone-engine/keypatch) - Multi-architecture assembler for IDA Pro. Powered by Keystone Engine. http://www.keystone-engine.org/keypatch
 
 - [x64Dbg]
 	- [code](https://github.com/0ffffffffh/Api-Break-for-x64dbg) - [Api-Break-for-x64dbg](https://github.com/0ffffffffh/Api-Break-for-x64dbg) - x64dbg plugin to set breakpoints automatically to Win32/64 APIs
