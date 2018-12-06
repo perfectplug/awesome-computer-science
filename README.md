@@ -64,6 +64,7 @@ Collect computer related materials and codes
 	- [code](https://github.com/keystone-engine/keypatch) - [keypatch](https://github.com/keystone-engine/keypatch) - Multi-architecture assembler for IDA Pro. Powered by Keystone Engine. http://www.keystone-engine.org/keypatch
 	- [code](https://github.com/RobinDavid/idasec) - [idasec](https://github.com/RobinDavid/idasec) - IDA plugin for reverse-engineering and dynamic interactions with the Binsec platform
 	- [code](https://github.com/techbliss/Python_editor) - [Python_editor](https://github.com/techbliss/Python_editor) - Better CodeEditor for Ida Pro.
+	- [code](https://github.com/idapython/src) - [IDAPython](https://github.com/idapython/src) - IDAPython project for Hex-Ray's IDA Pro http://www.hex-rays.com/
 
 - [x64Dbg]
 	- [code](https://github.com/0ffffffffh/Api-Break-for-x64dbg) - [Api-Break-for-x64dbg](https://github.com/0ffffffffh/Api-Break-for-x64dbg) - x64dbg plugin to set breakpoints automatically to Win32/64 APIs
