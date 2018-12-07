@@ -55,6 +55,7 @@ Collect computer related materials and codes
 - [Debug]
 	- [code](https://github.com/bootleg/ret-sync) - [ret-sync](https://github.com/bootleg/ret-sync) - ret-sync stands for Reverse-Engineering Tools synchronization. It's a set of plugins that help to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg/OllyDbg2/x64dbg) with IDA disassembler. The underlying idea is simple: take the best from both worlds (static and dynamic analysis).
 - [IDA]
+	
 	- [code](https://github.com/wanttobeno/IDAStealth-v1.3.3) - [IDAStealth-v1.3.3](https://github.com/wanttobeno/IDAStealth-v1.3.3) - IDA反-反调试插件 IDAStealth v1.3.3, created 06/28/2011, Jan Newger
 	- [code](https://github.com/illera88/Ponce) - [Ponce](https://github.com/illera88/Ponce) - IDA 2016 plugin contest winner! Symbolic Execution just one-click away!Ponce (pronounced [ 'poN θe ] pon-they ) is an IDA Pro plugin that provides users the ability to perform taint analysis and symbolic execution over binaries in an easy and intuitive fashion. With Ponce you are one click away from getting all the power from cutting edge symbolic execution. Entirely written in C/C++.
 	- [code](https://github.com/alexhude/uEmu) - [uEmu](https://github.com/alexhude/uEmu) - Tiny cute emulator plugin for IDA based on unicorn.
@@ -65,6 +66,8 @@ Collect computer related materials and codes
 	- [code](https://github.com/RobinDavid/idasec) - [idasec](https://github.com/RobinDavid/idasec) - IDA plugin for reverse-engineering and dynamic interactions with the Binsec platform
 	- [code](https://github.com/techbliss/Python_editor) - [Python_editor](https://github.com/techbliss/Python_editor) - Better CodeEditor for Ida Pro.
 	- [code](https://github.com/idapython/src) - [IDAPython](https://github.com/idapython/src) - IDAPython project for Hex-Ray's IDA Pro http://www.hex-rays.com/
+	- [code](https://github.com/tmr232/Sark) - [Sark](https://github.com/tmr232/Sark) - IDAPython Made Easy http://sark.readthedocs.io
+	
 
 - [x64Dbg]
 	- [code](https://github.com/0ffffffffh/Api-Break-for-x64dbg) - [Api-Break-for-x64dbg](https://github.com/0ffffffffh/Api-Break-for-x64dbg) - x64dbg plugin to set breakpoints automatically to Win32/64 APIs
