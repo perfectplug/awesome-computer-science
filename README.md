@@ -161,6 +161,8 @@ Collect computer related materials and codes
 	- [cocos2d]
 		- [code](https://github.com/cocos2d/cocos2d-x) - [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
 		- [code](https://github.com/u0u0/Quick-Cocos2dx-Community) - [Quick-Cocos2dx-Community](https://github.com/u0u0/Quick-Cocos2dx-Community) - Cocos2d-Lua 社区版 http://www.cocos2d-lua.org
+	- [bs::framework](https://www.bsframework.io/)
+		- [code](https://github.com/gamefoundry/bsf) - [bsf](https://github.com/gamefoundry/bsf) - Modern C++14 library for the development of real-time graphical applications https://www.bsframework.io  bs::framework is a C++ library that aims to provide a unified foundation for the development of real-time graphical applications, whether games, engines or tools.
 - [Server]
 	- [SuperSocket](http://www.supersocket.net/)
 		- [code](https://github.com/kerryjiang/SuperSocket) - [SuperSocket](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight, cross platform and extensible socket server application framework.
