@@ -157,18 +157,18 @@ Collect computer related materials and codes
 - [AMD]
 
 ## Game Engine
-- [Client]
-	- [cocos2d]
+- Client
+	- cocos2d
 		- [code](https://github.com/cocos2d/cocos2d-x) - [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
 		- [code](https://github.com/u0u0/Quick-Cocos2dx-Community) - [Quick-Cocos2dx-Community](https://github.com/u0u0/Quick-Cocos2dx-Community) - Cocos2d-Lua 社区版 http://www.cocos2d-lua.org
 	- [bs::framework](https://www.bsframework.io/)
 		- [code](https://github.com/gamefoundry/bsf) - [bsf](https://github.com/gamefoundry/bsf) - bs::framework is a C++ library that aims to provide a unified foundation for the development of real-time graphical applications, whether games, engines or tools.
-- [Server]
+- Server
 	- [SuperSocket](http://www.supersocket.net/)
 		- [code](https://github.com/kerryjiang/SuperSocket) - [SuperSocket](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight, cross platform and extensible socket server application framework.
 		- [code](https://github.com/kerryjiang/SuperSocket.ClientEngine) - [SuperSocket.ClientEngine](https://github.com/kerryjiang/SuperSocket.ClientEngine) - A .NET library which can make your socket client development easier
 
-- [Game]
+- Game
 	- [freeablo](https://freeablo.org/)
 		- [code](https://github.com/wheybags/freeablo) - [freeablo](https://github.com/wheybags/freeablo) - Modern reimplementation of the Diablo 1 game engine
 
