@@ -168,6 +168,8 @@ Collect computer related materials and codes
 		- [code](https://github.com/kerryjiang/SuperSocket) - [SuperSocket](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight, cross platform and extensible socket server application framework.
 		- [code](https://github.com/kerryjiang/SuperSocket.ClientEngine) - [SuperSocket.ClientEngine](https://github.com/kerryjiang/SuperSocket.ClientEngine) - A .NET library which can make your socket client development easier
 
+	- forgottenserver
+		- [code](https://github.com/otland/forgottenserver) - [forgottenserver](https://github.com/otland/forgottenserver) - A free and open-source MMORPG server emulator written in C++ https://otland.net/
 - Game
 	- [freeablo](https://freeablo.org/)
 		- [code](https://github.com/wheybags/freeablo) - [freeablo](https://github.com/wheybags/freeablo) - Modern reimplementation of the Diablo 1 game engine
