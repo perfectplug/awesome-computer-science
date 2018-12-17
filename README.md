@@ -170,6 +170,8 @@ Collect computer related materials and codes
 
 	- forgottenserver
 		- [code](https://github.com/otland/forgottenserver) - [forgottenserver](https://github.com/otland/forgottenserver) - A free and open-source MMORPG server emulator written in C++ https://otland.net/
+	- Simple-Web-Server
+		- [code](https://gitlab.com/eidheim/Simple-Web-Server) - [Simple-Web-Server](https://gitlab.com/eidheim/Simple-Web-Server) - A very simple, fast, multithreaded, platform independent HTTP and HTTPS server and client library implemented using C++11 and Boost.Asio. Created to be an easy way to make REST resources available from C++ applications.
 - Game
 	- [freeablo](https://freeablo.org/)
 		- [code](https://github.com/wheybags/freeablo) - [freeablo](https://github.com/wheybags/freeablo) - Modern reimplementation of the Diablo 1 game engine
