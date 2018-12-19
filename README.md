@@ -138,8 +138,10 @@ Collect computer related materials and codes
 	- [code](https://github.com/chyyuu/ucore_os_lab) - [ucore_os_lab](https://github.com/chyyuu/ucore_os_lab) - os kernel labs for operating systems course in Tsinghua University.
 
 ## Compiler
-- [Book]
+- Book
 	- [code](https://github.com/fool2fish/dragon-book-exercise-answers) - [dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers
+- code
+	- [ShivyC](https://github.com/ShivamSarodia/ShivyC) - A hobby C compiler created in Python.
 
 ## Decompiler
 - [LuaJIT](http://luajit.org/)
