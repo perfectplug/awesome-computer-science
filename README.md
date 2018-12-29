@@ -151,6 +151,7 @@ Collect computer related materials and codes
 	
 	
 ## Emulator
+- Cmulator - [code](https://github.com/Coldzer0/Cmulator) - Cmulator is ( x86 - x64 ) Scriptable Reverse Engineering Sandbox Emulator for shellcode and PE binaries . Based on Unicorn & Capstone Engine & javascript
 
 
 ## Virtualization
