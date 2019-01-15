@@ -111,6 +111,7 @@ Collect computer related materials and codes
 ## Hack Program
 - [DDOS]
 	- [material](https://www.ecrimelabs.com/blog/2018/11/25/ddos-research-data-made-public) - DDOS RESEARCH DATA OPEN-SOURCED ON SCANS.IO
+	- [code](https://github.com/maestron/botnets) - [botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
 - [Exploit]
 	- [code](https://github.com/niklasb/sploits) - [sploits](https://github.com/niklasb/sploits)
 	- [code](https://github.com/enddo/awesome-windows-exploitation) - [awesome-windows-exploitation](https://github.com/enddo/awesome-windows-exploitation) - A curated list of awesome Windows Exploitation resources, and shiny things. Inspired by awesom
