@@ -189,3 +189,5 @@ Collect computer related materials and codes
 		- [code](https://github.com/wheybags/freeablo) - [freeablo](https://github.com/wheybags/freeablo) - Modern reimplementation of the Diablo 1 game engine
 
 ## Fuzzing
+- applepie
+	- [code](https://github.com/gamozolabs/applepie) - A hypervisor for fuzzing built with WHVP and Bochs
