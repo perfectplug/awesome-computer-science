@@ -98,6 +98,8 @@ Collect computer related materials and codes
 		- [code](https://github.com/GkvJwa/vmp) - [vmp demo](https://github.com/GkvJwa/vmp)
 		
 - Android
+	-[book](https://github.com/nowsecure/r2frida-book) - [r2frida-book](https://github.com/nowsecure/r2frida-book) - The radare2 + frida book for Mobile Application assessment https://www.nowsecure.com
+	
 
 - IOS
 
