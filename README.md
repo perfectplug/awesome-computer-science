@@ -84,6 +84,7 @@ Collect computer related materials and codes
 		
 - VMProtect
 	- [Analysis]
+ 		- [code](https://github.com/can1357/NoVmp) - [NoVmp](https://github.com/can1357/NoVmp) - [Writing An Optimizing IL Compiler, For Dummies, By A Dummy: 0x1 Symbolic Expressions](https://blog.can.ac/2020/04/11/writing-an-optimizing-il-compiler-for-dummies-by-a-dummy/)
 		- [code](https://github.com/wanttobeno/vmp3.2crack) - [vmp3.2crack](https://github.com/wanttobeno/vmp3.2crack) - [[调试逆向] [虚拟机保护] [原创]VMP3.2授权分析](https://bbs.pediy.com/thread-247442.htm)
 		 - ~~[code](https://github.com/wanttobeno/VmpHandle)~~ - ~~[VmpHandle](https://github.com/wanttobeno/VmpHandle)~~
 		- ~~[code](https://github.com/0xbadc0de1/VmP_DBG)~~ - ~~[VmP_DBG](https://github.com/0xbadc0de1/VmP_DBG)~~ - ~~This is a VmProtect integrated debugger, that will essentially allow you to disasm and debug vmp partially virtualized functions at the vmp bytecode level. It was made using TitanEngine for the debug engine and Qt for the gui. Do not expect much of it and feel free to report any bugs.~~
