@@ -103,9 +103,9 @@ Collect computer related tutorials,tools and codes!
 		- [code](https://github.com/GkvJwa/vmp) - [vmp demo](https://github.com/GkvJwa/vmp)
 		
 - Android
+	- Tutorial
+		- [book](https://github.com/nowsecure/r2frida-book) - [r2frida-book](https://github.com/nowsecure/r2frida-book) - The radare2 + frida book for Mobile Application assessment https://www.nowsecure.com
 	- Tools
-		-[book](https://github.com/nowsecure/r2frida-book) - [r2frida-book](https://github.com/nowsecure/r2frida-book) - The radare2 + frida book for Mobile Application assessment https://www.nowsecure.com
-	
 
 - IOS
 
