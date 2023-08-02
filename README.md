@@ -1,13 +1,13 @@
 # awesome-computer-science
-Collect computer related materials and codes
+Collect computer related tutorials,tools and codes!
 ## Contents
 
 - [Reverse Engine](#Reverse-Engine)
+- [Compiler](#Compiler)
+- [Decompiler](#Decompiler)
 - [Hack Program](#Hack-Program)
 - [Windows Kernel](#Windows-Kernel)
 - [Operation System](#Operation-system)
-- [Compiler](#Compiler)
-- [Decompiler](#Decompiler)
 - [Emulator](#Emulator)
 - [Virtualization](#Virtualization)
 - [Game Engine](#Game-Engine)
@@ -83,7 +83,11 @@ Collect computer related materials and codes
 
 		
 - VMProtect
-	- [Analysis]
+	- Tutorial
+		- [Tickling VMProtect with LLVM: Part 1](https://secret.club/2021/09/08/vmprotect-llvm-lifting-1.html)
+		- [Tickling VMProtect with LLVM: Part 2](https://secret.club/2021/09/08/vmprotect-llvm-lifting-2.html)
+		- [Tickling VMProtect with LLVM: Part 3](https://secret.club/2021/09/08/vmprotect-llvm-lifting-3.html)
+	- Tools
  		- [code](https://github.com/can1357/NoVmp) - [NoVmp](https://github.com/can1357/NoVmp) - [Writing An Optimizing IL Compiler, For Dummies, By A Dummy: 0x1 Symbolic Expressions](https://blog.can.ac/2020/04/11/writing-an-optimizing-il-compiler-for-dummies-by-a-dummy/)
 		- [code](https://github.com/wanttobeno/vmp3.2crack) - [vmp3.2crack](https://github.com/wanttobeno/vmp3.2crack) - [[调试逆向] [虚拟机保护] [原创]VMP3.2授权分析](https://bbs.pediy.com/thread-247442.htm)
 		 - ~~[code](https://github.com/wanttobeno/VmpHandle)~~ - ~~[VmpHandle](https://github.com/wanttobeno/VmpHandle)~~
@@ -94,12 +98,13 @@ Collect computer related materials and codes
 		- [code](https://github.com/anatolikalysch/VMAttack) - [VMAttack](https://github.com/anatolikalysch/VMAttack) - VMAttack PlugIn for IDA Pro.IDA Pro Plugin for static and dynamic virtualization-based packed analysis and deobfuscation.VMAttack was awarded the second place at the annual IDA Pro Plug-in Contest in 2016!
 		- [code](https://github.com/OoWoodOne/VMP_ODPlugin) - [VMP_ODPlugin](https://github.com/OoWoodOne/VMP_ODPlugin) - [[原创]VMP分析handler与脱壳插件&源码](https://bbs.pediy.com/thread-203683.htm)
 		
-	- [Implement]
+	- Implement
 		- [code](https://github.com/TinyNiko/VMProtect) - [VMProtect](https://github.com/TinyNiko/VMProtect) - I know this project is impossible ,but i;m possible
 		- [code](https://github.com/GkvJwa/vmp) - [vmp demo](https://github.com/GkvJwa/vmp)
 		
 - Android
-	-[book](https://github.com/nowsecure/r2frida-book) - [r2frida-book](https://github.com/nowsecure/r2frida-book) - The radare2 + frida book for Mobile Application assessment https://www.nowsecure.com
+	- Tools
+		-[book](https://github.com/nowsecure/r2frida-book) - [r2frida-book](https://github.com/nowsecure/r2frida-book) - The radare2 + frida book for Mobile Application assessment https://www.nowsecure.com
 	
 
 - IOS
@@ -109,6 +114,22 @@ Collect computer related materials and codes
 	
 - Pack/Protect
 	
+## Compiler
+- LLVM
+	- Tutorial
+
+	- Tools
+	
+- Book
+	- [code](https://github.com/fool2fish/dragon-book-exercise-answers) - [dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers
+- code
+	- [ShivyC](https://github.com/ShivamSarodia/ShivyC) - A hobby C compiler created in Python.
+
+## Decompiler
+- LuaJIT(http://luajit.org/)
+	- [code](https://github.com/perfectplug/ljd) - [ljd](https://github.com/perfectplug/ljd) - The original name was ljwthgnd as in LuaJIT 'What The Hell is Going On' Decompiler named under the LuaJIT C sources variable naming convention.
+	- [code](https://github.com/EiNSTeiN-/decompiler) - [decompiler](https://github.com/EiNSTeiN-/decompiler) - A decompiler with multiple backend support, written in Python. Works with IDA and Capstone.
+	- [code](https://github.com/rexdex/recompiler) - [recompiler](https://github.com/rexdex/recompiler) - Xbox360 -> Windows executable converter
 	
 
 ## Hack Program
@@ -136,42 +157,31 @@ Collect computer related materials and codes
 	- [code](https://github.com/woj-ciech/LeakLooker) - [LeakLooker](https://github.com/woj-ciech/LeakLooker) - Find open databases with Shodan
 	
 ## Windows Kernel
-- [Tools]
+- Tools
 	- [code](https://github.com/zodiacon/KernelExplorer) - [KernelExplorer](https://github.com/zodiacon/KernelExplorer)
 	- [code](https://github.com/zodiacon/DriverMon) - [DriverMon](https://github.com/zodiacon/DriverMon)
-- [Bootkit]
+- Bootkit
 
-- [Rootkit]
+- Rootkit
 
 ## Operation System
-- [File System]
+- File System
 	- [code](https://github.com/ufrisk/MemProcFS) - [MemProcFS](https://github.com/ufrisk/MemProcFS) - The Memory Process File System:
 	
-- [Tutorial]
+- Tutorial
 	- [os_course_info](https://github.com/chyyuu/os_course_info) - 清华大学操作系统课程(2018)
 	- [code](https://github.com/chyyuu/ucore_os_lab) - [ucore_os_lab](https://github.com/chyyuu/ucore_os_lab) - os kernel labs for operating systems course in Tsinghua University.
 
-## Compiler
-- Book
-	- [code](https://github.com/fool2fish/dragon-book-exercise-answers) - [dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers
-- code
-	- [ShivyC](https://github.com/ShivamSarodia/ShivyC) - A hobby C compiler created in Python.
 
-## Decompiler
-- [LuaJIT](http://luajit.org/)
-	- [code](https://github.com/perfectplug/ljd) - [ljd](https://github.com/perfectplug/ljd) - The original name was ljwthgnd as in LuaJIT 'What The Hell is Going On' Decompiler named under the LuaJIT C sources variable naming convention.
-	- [code](https://github.com/EiNSTeiN-/decompiler) - [decompiler](https://github.com/EiNSTeiN-/decompiler) - A decompiler with multiple backend support, written in Python. Works with IDA and Capstone.
-	- [code](https://github.com/rexdex/recompiler) - [recompiler](https://github.com/rexdex/recompiler) - Xbox360 -> Windows executable converter
-	
 	
 ## Emulator
 - Cmulator - [code](https://github.com/Coldzer0/Cmulator) - Cmulator is ( x86 - x64 ) Scriptable Reverse Engineering Sandbox Emulator for shellcode and PE binaries . Based on Unicorn & Capstone Engine & javascript
 
 
 ## Virtualization
-- [Intel]
+- Intel
 	- [code](https://github.com/tandasat/GuardMon) - [GuardMon](https://github.com/tandasat/GuardMon) - Hypervisor based tool for monitoring system register accesses.
-- [AMD]
+- AMD
 
 ## Game Engine
 - Client
