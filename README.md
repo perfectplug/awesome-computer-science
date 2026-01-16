@@ -1,7 +1,7 @@
 # awesome-computer-science
 Collect computer related tutorials,tools and codes!
 ## Contents
-
+- [AI](#ai)
 - [Reverse Engine](#reverse-engine)
 - [Compiler](#compiler)
 - [Decompiler](#decompiler)
@@ -12,6 +12,19 @@ Collect computer related tutorials,tools and codes!
 - [Virtualization](#virtualization)
 - [Game Engine](#game-engine)
 - [Fuzzing](#fuzzing)
+## AI
+- [IDA Pro MCP](https://github.com/mrexodia/ida-pro-mcp) - Simple MCP Server to allow vibe reversing in IDA Pro.
+- [tenrec](https://github.com/axelmierczuk/tenrec) - A headless, extendable, multi-session MCP framework for IDA Pro, built with ida-domain and FastMCP.
+- [GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - ghidraMCP is an Model Context Protocol server for allowing LLMs to autonomously reverse engineer applications. It exposes numerous tools from core Ghidra functionality to MCP clients.
+- [GhydraMCP](https://github.com/starsong-consulting/GhydraMCP) - GhydraMCP is a powerful bridge between Ghidra and AI assistants that enables comprehensive AI-assisted reverse engineering through the Model Context Protocol (MCP).
+- [GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) - A powerful Ghidra extension that provides an MCP (Model Context Protocol) server, enabling AI assistants and other tools to interact with Ghidra's reverse engineering capabilities through a standardized API.
+
+- [x64DbgMCPServer](https://github.com/AgentSmithers/x64DbgMCPServer) - This project is a starting point for building an MCP (Memory Command Protocol) server plugin for x96/x64/x32dbg https://github.com/x64dbg/x64dbg/ using C# on the classic Windows-only .NET Framework platform (No ASP.NET Core hosting required).
+
+	The plugin acts as a lightweight HTTP interface bridge between an MCP client and the debugger, allowing you to have an LLM MCP client interactively send commands to inspect memory, disassemble, query registers, manipulate labels/comments, and more—all remotely and programmatically.
+
+	On top of essential bindings to the x64dbg debugger engine, this template offers a clean project structure, a built-in command system, and a simple HTTP listener that exposes your commands through a text-based API.
+- [jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) - JADX-AI-MCP is a plugin for the JADX decompiler that integrates directly with Model Context Protocol (MCP) to provide live reverse engineering support with LLMs like Claude.
 
 ## Reverse Engine
 - Framework
